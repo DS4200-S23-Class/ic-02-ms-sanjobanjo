@@ -1,0 +1,24 @@
+*
+{font-family: arial;}
+
+body
+h1 {
+	text-align: center;
+}
+
+.pq {
+	color:darkgreen;
+}
+
+.container {
+	border:solid;
+	border-color:black;
+}
+
+svg {
+	fill: pink;
+}
+
+h2{
+	text-align: center;
+}
